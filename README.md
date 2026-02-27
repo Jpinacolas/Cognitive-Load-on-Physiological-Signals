@@ -5,6 +5,8 @@ Authors: Jorge Pina, Edurne Bernal-Berdun, Daniel Martin, Sandra Malpica, Carmen
 
 Affiliations: Universidad de Zaragoza - I3A, CIBER-BBN
 
+**International Symposium on Mixed and Augmented Reality (ISMAR) 2025**
+
 Our dataset is free to use for any research purposes. Any possible inquiries on its content can be directed at **jpinac (at) unizar (dot) es**.
 
 If you use our dataset for a publication, please cite our work following the bibtex provided in the project page:
@@ -12,6 +14,12 @@ If you use our dataset for a publication, please cite our work following the bib
 https://graphics.unizar.es/projects/CL_Biosignals/
 
 Data is also available in the following Zenodo link: https://zenodo.org/records/18669059
+
+###**Abstract**
+
+The study of cognitive load (CL) has been an active field of research across disciplines such as psychology, education, and computer graphics and visualization for decades. In the context of Virtual Reality (VR), understanding mental demand becomes particularly relevant, as immersive experiences increasingly integrate multisensory stimuli that require users to distribute their limited cognitive resources. In this work, we investigate the effects of cognitive load during a search task in VR, combining objective and subjective measurements, including physiological signals and validated questionnaires. We designed an experiment in which participants performed a visual search task under two cognitive load conditions (either alone or while responding to a concurrent auditory task) and across two visual search areas (90° and 360°). We collected a rich dataset comprising task performance, eye tracking, electrocardiogram (ECG), electrodermal activity (EDA), photoplethysmography (PPG), and inertial measurements, along with subjective assessments (NASA-TLX questionnaires). Our analysis shows that increased cognitive load hinders visual search performance and affects multiple physiological markers, offering a solid foundation for future research on cognitive load in multisensory virtual environments.
+
+###**Data Content**
 
 We offer physiological and performance data collected from 36 users. This is provided for four different conditions, resulting of the combinations of high and low cognitive load conditions and 90° and 360° search areas. For each user, you can find:
 
